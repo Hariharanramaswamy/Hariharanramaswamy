@@ -1,175 +1,226 @@
-<h1 align="center">Hi 👋, I'm Hariharan R</h1>
-<h3 align="center">Backend Java Developer | Spring Boot | AI Integration | Building Scalable Applications</h3>
+<h1 align="center">
+Hi 👋, I'm Hariharan R
+</h1>
+
+<h3 align="center">
+Backend Java Developer • Spring Boot • Spring AI • PostgreSQL • AWS Learner
+</h3>
 
 <p align="center">
-  <a href="https://github.com/Hariharanramswamy">
-    <img src="https://img.shields.io/github/followers/Hariharanramswamy?label=Followers&style=for-the-badge">
-  </a>
-  <a href="https://github.com/Hariharanramswamy">
-    <img src="https://img.shields.io/github/stars/Hariharanramswamy?affiliations=OWNER&style=for-the-badge">
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Java+Developer;Spring+Boot+%7C+Spring+Security;Building+Scalable+REST+APIs;Learning+Cloud+%26+Microservices;Always+Learning+Something+New" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 💫 About Me
 
-- 💻 Backend-focused Java Developer
-- 🌱 Currently building an Enterprise HRMS with AI Assistant
-- 🔐 Passionate about Secure Backend Development using Spring Security & JWT
-- 🤖 Interested in AI-powered applications using Spring AI and LLMs
-- ☁️ Currently learning Cloud & DevOps (AWS, Docker)
-- 📍 Chennai, Tamil Nadu, India
+💻 Backend-focused Java Developer passionate about building secure and scalable applications.
+
+🚀 Currently building an **Enterprise HRMS with AI Assistant**
+
+🔐 Experienced with Spring Security, JWT Authentication and REST APIs.
+
+🤖 Interested in AI Integration using Spring AI and LLMs.
+
+☁️ Currently learning AWS Cloud and Microservices.
+
+🎯 Goal: Become a Backend Engineer at a Product-Based Company.
 
 ---
 
-## 🚀 Tech Stack
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="mailto:hariharanramesh2025@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/hariharan-ramesh-6516b1">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://github.com/Hariharanramaswamy">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,js"/>
+
+</p>
 
 ### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![Spring AI](https://img.shields.io/badge/Spring_AI-4CAF50?style=for-the-badge)
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring"/>
+
+<img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/JPA-Hibernate-orange?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge">
+
+</p>
 
 ### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss)
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,angular,html,css,tailwind,bootstrap"/>
+
+</p>
 
 ### Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
+
+</p>
 
 ### Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge)
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,maven,postman,aws"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hariharanramaswamy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharanramaswamy&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</td>
+
+</tr>
+
+</table>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Hariharanramaswamy&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariharanramaswamy&theme=tokyo-night"/>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hariharanramaswamy&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏢 Enterprise HRMS with AI Assistant
+## 🏢 Enterprise HRMS with AI
 
-An enterprise-grade Human Resource Management System built using modern backend architecture.
-
-### Features
-
-- JWT Authentication
+- Spring Boot
 - Spring Security
-- Role-Based Access Control (RBAC)
-- Employee Management
-- Attendance & Leave Management
-- Payroll Module
-- Recruitment Management
-- Performance Management
-- Asset Management
-- AI HR Assistant (Spring AI)
-- Redis Caching
-- MinIO File Storage
-- Docker Support
-- Swagger API Documentation
-
-**Tech Stack**
-
-Java • Spring Boot • Spring Security • Spring AI • PostgreSQL • Redis • MinIO • Docker • Next.js
+- Spring AI
+- PostgreSQL
+- Redis
+- MinIO
+- Docker
+- Next.js
+- JWT Authentication
+- RBAC
+- REST APIs
 
 ---
 
 ## 🏆 Hackathon Registration & Judgement Portal
 
-A secure portal for hackathon management.
+✔ Spring Boot
 
-### Features
+✔ Spring Security
 
-- Team Registration
-- JWT Authentication
-- Role-Based Authorization
-- Admin Dashboard
-- Judge Evaluation
-- Project Scoring
-- File Uploads
-- REST APIs
+✔ JWT Authentication
 
-**Tech Stack**
+✔ PostgreSQL
 
-Java • Spring Boot • Spring Security • PostgreSQL
+✔ REST APIs
+
+✔ Admin Dashboard
+
+✔ Judge Evaluation
 
 ---
 
 ## 🤖 AI Powered School Admission System
 
-AI-assisted admission platform for educational institutions.
+✔ Spring AI
 
-### Features
+✔ Spring Boot
 
-- Document Upload
-- AI Data Extraction
-- Dynamic Form Generation
-- REST APIs
-- PostgreSQL Integration
+✔ PostgreSQL
 
-**Tech Stack**
+✔ AI Document Parsing
 
-Java • Spring Boot • Spring AI • PostgreSQL
+✔ REST APIs
 
 ---
 
-## 📊 GitHub Stats
+# 📚 Currently Learning
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hariharanramswamy&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharanramswamy&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hariharanramswamy&theme=tokyonight"/>
-</p>
-
----
-
-## 🎯 Current Focus
-
-- Building Enterprise HRMS
-- Spring AI & LLM Applications
 - AWS Cloud
-- Docker & Microservices
+- Docker
+- Kubernetes
+- Microservices
 - System Design
-- Backend Performance Optimization
+- CI/CD
 
 ---
 
-## 📜 Certifications
+# 📫 Reach Me
 
-- Java, Spring Boot, Spring Security, Docker & Microservices
-- AWS Academy Cloud Security Foundations
+📧 **hariharanramesh2025@gmail.com**
 
----
-
-## 📫 Connect With Me
-
-📧 Email: hariharanramesh2025@gmail.com
-
-💼 LinkedIn: https://linkedin.com/in/hariharan-ramesh-6516b1
-
-💻 GitHub: https://github.com/Hariharanramswamy
+📍 Chennai, Tamil Nadu, India
 
 ---
 
-⭐ If you like my work, consider giving a star to my repositories.
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Hariharanramaswamy&label=Profile+Views&color=blue&style=for-the-badge"/>
+
+</p>
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
