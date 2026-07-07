@@ -14,10 +14,10 @@
 
 ---
 
-# 💻 whoami
+# 💻 Who Am I
 
 ```text
-hariharan@github:~$ whoami
+
 
 Name      : Hariharan R
 Location  : Chennai, India
