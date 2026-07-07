@@ -1,14 +1,16 @@
+# 👋 Hi, I'm Hariharan R
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3131&height=220&section=header&text=Hariharan%20R&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF3131&height=220&section=header&text=Hariharan%20R&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-# Hi 👋, I'm Hariharan R
+### 🚀 Java Backend Developer | Spring Boot | PostgreSQL | REST APIs | AWS Learner
 
-### Java Backend Developer | Spring Boot | PostgreSQL | REST APIs | AWS Learner
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FF3131&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Building+Scalable+Applications;Backend+System+Designer;Always+Learning+New+Technologies"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=FF3131&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Developer;Backend+System+Designer;Building+Scalable+Applications;Always+Learning+New+Technologies" />
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=FF3131&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Hariharanramaswamy&label=Profile%20Views&color=red&style=for-the-badge"/>
 
 </div>
 
@@ -16,25 +18,31 @@
 
 # 🚀 About Me
 
-💻 Passionate Java Backend Developer focused on building scalable and secure applications.
+```java
+public class Hariharan {
 
-🏢 Currently building an **Enterprise HRMS** using Spring Boot.
+    String role = "Java Backend Developer";
 
-🌱 Currently learning
+    String currentProject = "Enterprise HRMS";
 
-- Spring Security
-- Docker
-- Redis
-- AWS
-- Microservices
+    String[] backend = {
+        "Java",
+        "Spring Boot",
+        "Spring Security",
+        "REST APIs",
+        "PostgreSQL",
+        "Redis",
+        "Docker",
+        "AWS"
+    };
 
-🎯 Goal
+    String goal = "Backend Engineer @ Product-Based Company";
+}
+```
 
-Become a Product-Based Company Backend Engineer.
-
-⚡ Fun Fact
-
-I enjoy turning complex backend problems into clean REST APIs.
+- 💻 Passionate about building scalable backend systems.
+- 🌱 Currently learning Microservices, Docker, Redis and AWS.
+- 🎯 Looking for Java Backend / Full Stack opportunities.
 
 ---
 
@@ -42,16 +50,16 @@ I enjoy turning complex backend problems into clean REST APIs.
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://github.com/Hariharanramaswamy">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -60,104 +68,40 @@ I enjoy turning complex backend problems into clean REST APIs.
 
 # 💻 Tech Stack
 
-## Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-## Backend
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity)
-![REST API](https://img.shields.io/badge/REST_API-FF5722?style=for-the-badge)
-
----
-
-## Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=nextdotjs)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-
----
-
-## Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis)
-
----
-
-## Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,js,react,nextjs,angular,html,css,bootstrap,postgres,mysql,redis,docker,git,github,aws,postman,vscode"/>
+</p>
 
 ---
 
 # ⭐ Featured Projects
 
 ## 🏢 Enterprise HRMS
-
-✔ Employee Management
-
-✔ Attendance Management
-
-✔ Payroll
-
-✔ AI Chatbot
-
-✔ Authentication & Authorization
-
-✔ Spring Boot + PostgreSQL + Redis
-
----
+- Employee Management
+- Attendance & Leave
+- Payroll
+- AI Chatbot
+- Spring Boot + PostgreSQL + Redis
 
 ## 🎓 Smart School Management System
-
-✔ AI Assistant
-
-✔ Student Management
-
-✔ Teacher Management
-
-✔ Attendance
-
-✔ Reports
-
----
+- AI Assistant
+- Student & Teacher Management
+- Attendance
+- Reports Dashboard
 
 ## 🏆 Hackathon Registration System
-
-✔ QR Code Generation
-
-✔ PDF ID Cards
-
-✔ JWT Authentication
-
-✔ Admin Dashboard
-
-✔ Spring Boot Backend
+- QR Code Generation
+- PDF ID Cards
+- JWT Authentication
+- Admin Dashboard
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hariharanramaswamy&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariharanramaswamy&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -165,19 +109,7 @@ I enjoy turning complex backend problems into clean REST APIs.
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&column=4&margin-w=15&margin-h=15"/>
-
+<img src="https://streak-stats.demolab.com?user=Hariharanramaswamy&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -185,33 +117,41 @@ I enjoy turning complex backend problems into clean REST APIs.
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariharanramaswamy&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
 # 🐍 Contribution Snake
 
+> Configure the GitHub Action before this appears.
+
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-
+<img src="https://raw.githubusercontent.com/Hariharanramaswamy/Hariharanramaswamy/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-# 💡 Quote of the Day
+# 🎯 2026 Goals
 
-> **"First, solve the problem. Then, write the code."** – John Johnson
+- ✅ Master Spring Boot
+- ✅ Learn Microservices
+- ✅ Deploy applications on AWS
+- ✅ Build production-ready backend systems
+- ✅ Join a product-based company
+
+---
+
+# 💡 Quote
+
+> *"First, solve the problem. Then, write the code."*
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF3131&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF3131&height=120&section=footer"/>
 
 </div>
