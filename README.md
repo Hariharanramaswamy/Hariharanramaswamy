@@ -166,17 +166,17 @@ Microservices    ████░░░░░░░░ 35%
 - ⬜ Learn Kubernetes
 - ⬜ Join a Product-Based Company
 
+
 ---
 
 # 🐍 Contribution Snake
 
-> Enable the GitHub Action to generate this animation.
-
-```md
-https://raw.githubusercontent.com/Hariharanramaswamy/Hariharanramaswamy/output/github-contribution-grid-snake.svg
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Hariharanramaswamy/Hariharanramaswamy/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</p>
 
 ---
+
 
 # 💡 Favorite Quote
 
